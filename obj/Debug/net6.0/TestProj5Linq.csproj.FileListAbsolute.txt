@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\bin\Debug\net6.0\TestProj5Linq.exe
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\bin\Debug\net6.0\TestProj5Linq.deps.json
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\bin\Debug\net6.0\TestProj5Linq.runtimeconfig.json
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\bin\Debug\net6.0\TestProj5Linq.dll
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\bin\Debug\net6.0\TestProj5Linq.pdb
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\TestProj5Linq.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\TestProj5Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\TestProj5Linq.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\TestProj5Linq.AssemblyInfo.cs
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\TestProj5Linq.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\TestProj5Linq.dll
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\refint\TestProj5Linq.dll
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\TestProj5Linq.pdb
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\TestProj5Linq.genruntimeconfig.cache
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj5Linq\obj\Debug\net6.0\ref\TestProj5Linq.dll
